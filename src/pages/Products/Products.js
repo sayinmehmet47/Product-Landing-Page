@@ -31,7 +31,7 @@ export default function Products() {
         children: info.map((e) => ({
           key: e.id,
           label: e.title,
-          url: `http://localhost:3000/products/${data.id}`,
+          url: `/products/${data.id}`,
         })),
       }));
   }
