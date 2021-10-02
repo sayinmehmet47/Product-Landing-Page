@@ -1,1 +1,1 @@
-productlist-sayin.netlify.app
+https://productlist-sayin.netlify.app/
